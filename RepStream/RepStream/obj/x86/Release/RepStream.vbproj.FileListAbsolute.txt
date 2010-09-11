@@ -1,0 +1,28 @@
+C:\Users\Chris\AppData\Local\Temporary Projects\RepStream\bin\Release\RepStream.exe.config
+C:\Users\Chris\AppData\Local\Temporary Projects\RepStream\bin\Release\RepStream.exe
+C:\Users\Chris\AppData\Local\Temporary Projects\RepStream\bin\Release\RepStream.pdb
+C:\Users\Chris\AppData\Local\Temporary Projects\RepStream\bin\Release\RepStream.xml
+C:\Users\Chris\AppData\Local\Temporary Projects\RepStream\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Chris\AppData\Local\Temporary Projects\RepStream\obj\x86\Release\RepStream.MainFrm.resources
+C:\Users\Chris\AppData\Local\Temporary Projects\RepStream\obj\x86\Release\RepStream.Resources.resources
+C:\Users\Chris\AppData\Local\Temporary Projects\RepStream\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Chris\AppData\Local\Temporary Projects\RepStream\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Chris\AppData\Local\Temporary Projects\RepStream\obj\x86\Release\RepStream.exe
+C:\Users\Chris\AppData\Local\Temporary Projects\RepStream\obj\x86\Release\RepStream.xml
+C:\Users\Chris\AppData\Local\Temporary Projects\RepStream\obj\x86\Release\RepStream.pdb
+C:\Users\Chris\documents\visual studio 2010\Projects\RepStream\RepStream\bin\Release\RepStream.exe.config
+C:\Users\Chris\documents\visual studio 2010\Projects\RepStream\RepStream\obj\x86\Release\RepStream.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\RepStream\RepStream\obj\x86\Release\RepStream.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\RepStream\RepStream\obj\x86\Release\RepStream.pdb
+C:\Users\Chris\documents\visual studio 2010\Projects\RepStream\RepStream\bin\Release\RepStream.exe.manifest
+C:\Users\Chris\documents\visual studio 2010\Projects\RepStream\RepStream\bin\Release\RepStream.application
+C:\Users\Chris\documents\visual studio 2010\Projects\RepStream\RepStream\bin\Release\RepStream.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\RepStream\RepStream\bin\Release\RepStream.pdb
+C:\Users\Chris\documents\visual studio 2010\Projects\RepStream\RepStream\bin\Release\RepStream.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\RepStream\RepStream\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Chris\documents\visual studio 2010\Projects\RepStream\RepStream\obj\x86\Release\RepStream.MainFrm.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\RepStream\RepStream\obj\x86\Release\RepStream.Resources.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\RepStream\RepStream\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\RepStream\RepStream\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\RepStream\RepStream\obj\x86\Release\RepStream.exe.manifest
+C:\Users\Chris\documents\visual studio 2010\Projects\RepStream\RepStream\obj\x86\Release\RepStream.application
