@@ -1,0 +1,15 @@
+C:\Users\Chris\Documents\Visual Studio 2008\Projects\RepStream\RepStream\bin\Release\RepStream.exe.config
+C:\Users\Chris\Documents\Visual Studio 2008\Projects\RepStream\RepStream\bin\Release\RepStream.exe.manifest
+C:\Users\Chris\Documents\Visual Studio 2008\Projects\RepStream\RepStream\bin\Release\RepStream.application
+C:\Users\Chris\Documents\Visual Studio 2008\Projects\RepStream\RepStream\bin\Release\RepStream.exe
+C:\Users\Chris\Documents\Visual Studio 2008\Projects\RepStream\RepStream\bin\Release\RepStream.pdb
+C:\Users\Chris\Documents\Visual Studio 2008\Projects\RepStream\RepStream\bin\Release\RepStream.xml
+C:\Users\Chris\Documents\Visual Studio 2008\Projects\RepStream\RepStream\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Chris\Documents\Visual Studio 2008\Projects\RepStream\RepStream\obj\Release\RepStream.MainFrm.resources
+C:\Users\Chris\Documents\Visual Studio 2008\Projects\RepStream\RepStream\obj\Release\RepStream.Resources.resources
+C:\Users\Chris\Documents\Visual Studio 2008\Projects\RepStream\RepStream\obj\Release\RepStream.vbproj.GenerateResource.Cache
+C:\Users\Chris\Documents\Visual Studio 2008\Projects\RepStream\RepStream\obj\Release\RepStream.exe.manifest
+C:\Users\Chris\Documents\Visual Studio 2008\Projects\RepStream\RepStream\obj\Release\RepStream.application
+C:\Users\Chris\Documents\Visual Studio 2008\Projects\RepStream\RepStream\obj\Release\RepStream.exe
+C:\Users\Chris\Documents\Visual Studio 2008\Projects\RepStream\RepStream\obj\Release\RepStream.xml
+C:\Users\Chris\Documents\Visual Studio 2008\Projects\RepStream\RepStream\obj\Release\RepStream.pdb

@@ -1,0 +1,22 @@
+C:\Users\Chris\AppData\Local\Temporary Projects\RepStream\bin\Debug\RepStream.exe.config
+C:\Users\Chris\AppData\Local\Temporary Projects\RepStream\bin\Debug\RepStream.exe
+C:\Users\Chris\AppData\Local\Temporary Projects\RepStream\bin\Debug\RepStream.pdb
+C:\Users\Chris\AppData\Local\Temporary Projects\RepStream\bin\Debug\RepStream.xml
+C:\Users\Chris\AppData\Local\Temporary Projects\RepStream\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\AppData\Local\Temporary Projects\RepStream\obj\Debug\RepStream.MainFrm.resources
+C:\Users\Chris\AppData\Local\Temporary Projects\RepStream\obj\Debug\RepStream.Resources.resources
+C:\Users\Chris\AppData\Local\Temporary Projects\RepStream\obj\Debug\RepStream.vbproj.GenerateResource.Cache
+C:\Users\Chris\AppData\Local\Temporary Projects\RepStream\obj\Debug\RepStream.exe
+C:\Users\Chris\AppData\Local\Temporary Projects\RepStream\obj\Debug\RepStream.xml
+C:\Users\Chris\AppData\Local\Temporary Projects\RepStream\obj\Debug\RepStream.pdb
+C:\Users\Chris\Documents\Visual Studio 2008\Projects\RepStream\RepStream\bin\Debug\RepStream.exe.config
+C:\Users\Chris\Documents\Visual Studio 2008\Projects\RepStream\RepStream\obj\Debug\RepStream.exe
+C:\Users\Chris\Documents\Visual Studio 2008\Projects\RepStream\RepStream\obj\Debug\RepStream.xml
+C:\Users\Chris\Documents\Visual Studio 2008\Projects\RepStream\RepStream\obj\Debug\RepStream.pdb
+C:\Users\Chris\Documents\Visual Studio 2008\Projects\RepStream\RepStream\bin\Debug\RepStream.exe
+C:\Users\Chris\Documents\Visual Studio 2008\Projects\RepStream\RepStream\bin\Debug\RepStream.pdb
+C:\Users\Chris\Documents\Visual Studio 2008\Projects\RepStream\RepStream\bin\Debug\RepStream.xml
+C:\Users\Chris\Documents\Visual Studio 2008\Projects\RepStream\RepStream\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\Documents\Visual Studio 2008\Projects\RepStream\RepStream\obj\Debug\RepStream.MainFrm.resources
+C:\Users\Chris\Documents\Visual Studio 2008\Projects\RepStream\RepStream\obj\Debug\RepStream.Resources.resources
+C:\Users\Chris\Documents\Visual Studio 2008\Projects\RepStream\RepStream\obj\Debug\RepStream.vbproj.GenerateResource.Cache
